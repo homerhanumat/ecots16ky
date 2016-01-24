@@ -4,60 +4,13 @@
  <title>eCOTS 2016 Regional Conference, Georgetown KY</title>
  <link href="https://homerhanumat.github.io//ecots16kyR.xml" rel="self"/>
  <link href="https://homerhanumat.github.io//ecots16ky"/>
- <updated>2016-01-23T22:50:26-05:00</updated>
+ <updated>2016-01-24T00:04:12-05:00</updated>
  <id>https://homerhanumat.github.io</id>
  <author>
    <name>Homer White</name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>Sample Post</title>
-   <link href="https://homerhanumat.github.io/2015/12/12/sample-post.html"/>
-   <updated>2015-12-12T15:00:00-05:00</updated>
-   <id>https://homerhanumat.github.io/2015/12/12/sample-post</id>
-   <content type="html">&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&quot;http://rmarkdown.rstudio.com&quot;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;kp&quot;&gt;summary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;cars&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/knitr-lanyon/figure/source/2015-12-12-sample-post/unnamed-chunk-3-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-3&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;figcaption&quot;&gt;Here is a plot for you.&lt;/p&gt;
-
-&lt;p&gt;The border around the graph above is due to custom CSS for this site (see &lt;code&gt;public/css/custom.css&lt;/code&gt;).  The caption was produced with some HTML:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;code&gt;&amp;lt;p class = &quot;figcaption&quot;&amp;gt;Here is a plot for you.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You can write mathematics, of course, but the syntax will be a bit different from R Markdown.  Here’s some inline math:  &lt;script type=&quot;math/tex&quot;&gt;\pi/2 \approx 1.57&lt;/script&gt;.  There is displayed math as well:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\sum_{i=1}^{n} i = \frac{n(n+1)}{2}.&lt;/script&gt;
-
-&lt;p&gt;Here’s the source so you can see how the above worked:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;You can write mathematics&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; of course&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; but the syntax will be a bit different from R Markdown.  Here&lt;span class=&quot;s&quot;&gt;&amp;#39;s some inline math:  $$ \pi/2 \approx 1.57 $$.  There is displayed math as well:&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;$$ \sum_{i=1}^{n} i = \frac{n(n+1)}{2}.$$&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;Here&amp;#39;&lt;/span&gt;s the &lt;span class=&quot;kn&quot;&gt;source&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Happy blogging.&lt;/p&gt;
-</content>
- </entry>
  
 
 </feed>

@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title.html
 # Setup
 title:            eCOTS 2016 Regional Conference, Georgetown KY
 tagline:          ''
-description:      'Face-to-face enhancement of eCOTS 2016'
+description:      'Face-to-face enhancement of <a href = "https://www.causeweb.org/ecots/ecots16/">eCOTS 2016<a>'
 baseurl: "/ecots16ky" # If you are making a gh-pages project blog, this is
                         # the name of your project repo, preceded by a /'
                         # Set it to just "" if you are making a user page.
