@@ -1,0 +1,40 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink: /:year/:month/:day/:title.html
+# relative_permalinks: true
+
+# Setup
+title:            eCOTS 2016 Regional Conference, Georgetown KY
+tagline:          ''
+description:      'Face-to-face enhancement of eCOTS 2016'
+baseurl: "/ecots16ky" # If you are making a gh-pages project blog, this is
+                        # the name of your project repo, preceded by a /'
+                        # Set it to just "" if you are making a user page.
+                        
+                        # That trailing slash is important for proper storage
+                        # of figures gnerated from knitting.
+baseurlknitr:  "/ecots16ky/" # This will always be your baseurl plus and extra '/'
+                                # at the end.  It's used only when knitr renders
+                                # your R Markdown files.
+                        
+url: "https://homerhanumat.github.io" # the base hostname & protocol for your site
+
+# set limit on number of post to appear on Home page
+homepostlimit: 4
+
+# Disqus comments:
+#disqus:           true
+#shortname:        homerhanumatgithubioknitrlanyon
+
+# Social Media
+twitter:          true # add a twitter button to each post
+facebook:         true # add a facebook share button to each post
+
+author:
+  name:           'Homer White'
+  url:            https://statistics.rainandrhino.org
+
+github:
+  repo:           https://github.com/homerhanumat/ecots16ky
