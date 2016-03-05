@@ -27,10 +27,7 @@ Our keynote speaker is William S. Rayens of the Department of Statistics at the 
 
 ### Student-Centered Learning:  Room Design Matters
 
-William S. Rayens, Ph.D
-Associate Chair and Director of Educational Initiatives
-Department of Statistics
-University of Kentucky
+William S. Rayens, Ph.D; Associate Chair and Director of Educational Initiatives, Department of Statistics, University of Kentucky
  
 **Abstract**
 
