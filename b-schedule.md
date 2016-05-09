@@ -13,7 +13,7 @@ title: Schedule and Abstracts
     * 8:00 AM:  Continental Breakfast, ASC Lobby
     * 9:00 AM:  Keynote Address, ASC 131:  Bill Rayens, University of Kentucky
     * 10:00 AM:  Break
-    * 10:15 AM: Contributed Presentation:  Joseph Nolin, Northern Kentucky University
+    * 10:15 AM: Contributed Presentation:  Joseph Nolan, Northern Kentucky University
     * 11:00 AM:  eCOTS Panel:  Teaching With Simulation-Based Inference
     * 12:00 PM:  Catered Lunch, ASC Lobby
     * 12:30 PM:  Contributed Presentation:  Amanda Ellis, University of Kentucky
@@ -34,7 +34,7 @@ There are fundamental reasons to inherently value a student-centered, activity-b
 <br><br>
 
 *Research Experiences for Undergraduate Statistics Majors*<br>
-Joseph Nolin, Northern Kentucky University
+Joseph Nolan, Northern Kentucky University
 
 As we train our undergraduate majors, it is important to remember that statistical methodologies exist in large part because they are useful in research. Whether our statistics graduates go on for further schooling or move directly into the workforce, they consistently remind me that their undergraduate research experiences are immensely valuable in opening doors to their careers. In this presentation I’ll talk briefly about research opportunities available to our students at NKU, including the URSTEM program and the Burkardt Consulting Center. I’ll also review two nationally available programs available through CAUSE that can assist in generating enthusiasm for undergraduate research.
 
