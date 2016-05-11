@@ -15,7 +15,7 @@ output:
 
 ## Registration Deadline
 
-The Regional Conference is less than two weeks away.  As of this writing we have eleven confirmed particpants, and I expect two more to confirm very soon.  If you plan to attend please complete your registration by Thursday May 12 so I can finalize plans with our caterer.
+The Regional Conference is less than two weeks away.  As of this writing we have eleven confirmed participants, and I expect two more to confirm very soon.  If you plan to attend please complete your registration by Thursday May 12 so I can finalize plans with our caterer.
 
 As a reminder, the registration procedure is as follows.  Go to the [eCOTS](https://www.causeweb.org/cause/ecots/ecots16) site to register for eCOTS itself.  As part of the process you will be asked to check which regional mini-conference you wish to attend, so don't forget to check the Georgetown College box!
 
