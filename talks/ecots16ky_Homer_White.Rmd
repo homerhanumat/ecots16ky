@@ -290,8 +290,7 @@ kable(guncap)
 Two Data Analysis Reports:
 
 * (individual)  Wage-discrimination study from CPS data.  Is there good evidence for wage discrimination based on sex, or could the wage-gap be ascribed to one or more confounding factors?
-
-* (group)  Predictive modeling project (preferred technique:  classification or regression trees).
+* (group)  Predictive modeling project:  <a href="resources/Project_Mushrooms.pdf" target ="_blank">Mushrooms</a> or <a href="resources/Project_Diabetes.pdf" target ="_blank">Diabetes</a>.
 
 Process:
 
@@ -299,7 +298,7 @@ Process:
 * draft conference
 * final version (w/oral presentation, for group project)
 
-Rubrics-based grading.
+<a href="resources/DAR_Rubric_FDN112.docx" target="_blank">Rubrics-based</a> grading.
 
 ## Writing (Technique)
 
