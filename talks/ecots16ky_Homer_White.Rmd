@@ -323,11 +323,7 @@ Process:
 
 * [Foundations at Georgetown](https://vimeo.com/29679941)
 * [Project MOSAIC](http://mosaic-web.org/) Teaching Statistics with R
-* Some of my Github repos:
-    * [tigerstats](https://github.com/homerhanumat/tigerstats)
-    * [tigerData](https://github.com/homerhanumat/tigerData)
-    * [tigerTree](https://github.com/homerhanumat/tigerTree)
-    * [addinplots](https://github.com/homerhanumat/addinplots)
+* [`tigerstats`](http://homerhanumat.github.io/tigerstats).  Includes links to many other resources relevant to this talk.
 * Representative Shiny apps for the classroom:
     * [Chi-Square Goodness-of-Fit](http://homer.shinyapps.io/SlowGoodness)
     * [Confidence Intervals for a Mean](http://homer.shinyapps.io/CIMean)
