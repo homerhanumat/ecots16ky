@@ -25,7 +25,7 @@ title: Schedule and Abstracts
     
 <p class = "message">Here are the abstracts for our talks.</p>
 
-*Student-Centered Learning:  Room Design Matters*<br>
+<a href="talks/ecots_rayens.pptx"><em>Student-Centered Learning:  Room Design Matters</em></a><br>
 William S. Rayens, Ph.D, Associate Chair and Director of Educational Initiatives<br>
 Department of Statistics, University of Kentucky
  
@@ -33,7 +33,7 @@ There are fundamental reasons to inherently value a student-centered, activity-b
 
 <br><br>
 
-*Research Experiences for Undergraduate Statistics Majors*<br>
+<a href = "talks/ecots_nolan.pdf" target = "_blank"><em>Research Experiences for Undergraduate Statistics Majors</em></a><br>
 Joseph Nolan, Northern Kentucky University
 
 As we train our undergraduate majors, it is important to remember that statistical methodologies exist in large part because they are useful in research. Whether our statistics graduates go on for further schooling or move directly into the workforce, they consistently remind me that their undergraduate research experiences are immensely valuable in opening doors to their careers. In this presentation I’ll talk briefly about research opportunities available to our students at NKU, including the URSTEM program and the Burkardt Consulting Center. I’ll also review two nationally available programs available through CAUSE that can assist in generating enthusiasm for undergraduate research.
