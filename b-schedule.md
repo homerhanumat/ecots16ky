@@ -40,7 +40,7 @@ As we train our undergraduate majors, it is important to remember that statistic
 
 <br><br>
 
-*Reflections on Using Simulation Based Methods to Teach Statistical Methods*<br>
+<a href="talks/amanda_ellis.pptx"><em>Reflections on Using Simulation Based Methods to Teach Statistical Methods</em></a><br>
 Amanda Ellis, University of Kentucky
 
 In recent years using simulation based methods has become more popular when teaching undergraduate statistical methods courses. Over the last year at the University of Kentucky we have transitioned our statistical methods course to incorporate simulation based methods. Students are first introduced topics such as standard error, confidence intervals and hypothesis test by simulating sampling distributions, bootstrap distributions and randomized distributions respectively. Later in the course the formulaic based methods are introduced. In this talk we plan to briefly discuss how the simulation based methods are incorporated in the classroom and spend the majority of the talk discussing our experiences over the last year with the simulation based methods. We plan to highlight aspects that we thought have worked well and those that have not.
